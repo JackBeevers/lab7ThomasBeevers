@@ -1,0 +1,15 @@
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\bin\Debug\net6.0\lab7ThomasBeevers.exe
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\bin\Debug\net6.0\lab7ThomasBeevers.deps.json
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\bin\Debug\net6.0\lab7ThomasBeevers.runtimeconfig.json
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\bin\Debug\net6.0\lab7ThomasBeevers.dll
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\bin\Debug\net6.0\lab7ThomasBeevers.pdb
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.csproj.AssemblyReference.cache
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.AssemblyInfoInputs.cache
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.AssemblyInfo.cs
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.csproj.CoreCompileInputs.cache
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.dll
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\refint\lab7ThomasBeevers.dll
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.pdb
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\lab7ThomasBeevers.genruntimeconfig.cache
+C:\Users\Beevers\source\repos\lab7ThomasBeevers\lab7ThomasBeevers\obj\Debug\net6.0\ref\lab7ThomasBeevers.dll
