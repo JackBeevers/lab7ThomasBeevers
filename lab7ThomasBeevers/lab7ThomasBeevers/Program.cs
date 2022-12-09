@@ -205,6 +205,7 @@ if (zeroOrOne == 0){
 double zeroOrOne;
 double output;
 while(true){
+    
     try{
         Console.WriteLine($"What would you like to convert {input} {timeStuff} time too? \n 0:Minutes \n 1:Hours");
         zeroOrOne = Convert.ToInt32(Console.ReadLine());
