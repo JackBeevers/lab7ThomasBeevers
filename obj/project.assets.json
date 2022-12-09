@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beevers\\source\\repos\\lab7ThomasBeevers\\lab7ThomasBeevers\\lab7ThomasBeevers.csproj",
-      "projectName": "lab7ThomasBeevers",
-      "projectPath": "C:\\Users\\Beevers\\source\\repos\\lab7ThomasBeevers\\lab7ThomasBeevers\\lab7ThomasBeevers.csproj",
+      "projectUniqueName": "C:\\Users\\Beevers\\source\\repos\\lab7thomasbeevers\\lab7thomasbeevers.csproj",
+      "projectName": "lab7thomasbeevers",
+      "projectPath": "C:\\Users\\Beevers\\source\\repos\\lab7thomasbeevers\\lab7thomasbeevers.csproj",
       "packagesPath": "C:\\Users\\Beevers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beevers\\source\\repos\\lab7ThomasBeevers\\lab7ThomasBeevers\\obj\\",
+      "outputPath": "C:\\Users\\Beevers\\source\\repos\\lab7thomasbeevers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beevers\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
